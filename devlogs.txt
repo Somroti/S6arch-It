@@ -4,3 +4,7 @@
   [PLAYER VER] Correction du bug de texte pas centré en salle.
   [PLAYER VER] Correction de la demande de photo qui ne marchait pas.
   [PLAYER VER] Ajout d'un plus grand écart entre le pseudo de chaque joueur pour éviter qu'ils se chevauchent.
+  [HOST VER]-PROTO Ajout d'un bouton parametres avec :
+    Le nombre de joueurs
+    Le nombre de manches
+    Si les séries de victoires dont plus de score
