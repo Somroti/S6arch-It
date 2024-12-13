@@ -1,0 +1,6 @@
+
+13/12/2024
+  Ajout de l'extension "Storage" pour enregister les informations du client.
+  Ajout de l'extension "SomUtils V2"
+  [PLAYER VER] Correction du bug de texte pas centré en salle.
+  [PLAYER VER] Correction de la demande de photo qui ne marchait pas.
