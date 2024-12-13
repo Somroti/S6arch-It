@@ -3,3 +3,4 @@
   Ajout de l'extension "SomUtils V2"
   [PLAYER VER] Correction du bug de texte pas centré en salle.
   [PLAYER VER] Correction de la demande de photo qui ne marchait pas.
+  [PLAYER VER] Ajout d'un plus grand écart entre le pseudo de chaque joueur pour éviter qu'ils se chevauchent.
