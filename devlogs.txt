@@ -8,3 +8,5 @@
     Le nombre de joueurs
     Le nombre de manches
     Si les séries de victoires dont plus de score
+14/12/2024
+  Rien pour l'instant
