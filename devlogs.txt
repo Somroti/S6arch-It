@@ -9,4 +9,5 @@
     Le nombre de manches
     Si les séries de victoires dont plus de score
 14/12/2024
-  Rien pour l'instant
+  [HOST VER] Ajout de l'interface des paramètres (non fonctionnelle)
+  [HOST VER] Correction de bug où le texte chevauchait les crédits.
