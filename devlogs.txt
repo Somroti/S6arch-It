@@ -15,3 +15,4 @@
   OBJECTIF DEMAIN : Mettre le texte des crédits correctement et faire l'interface des paramètres fonctionnelle.
 
 15/12/2024
+  [HOST-VER] Correction des paramètres qui ont maintenant le texte qui n'est pas chevauché.
