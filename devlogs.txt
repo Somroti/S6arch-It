@@ -17,4 +17,5 @@
 15/12/2024
   [HOST-VER] Correction des paramètres qui ont maintenant le texte qui n'est pas chevauché.
   [HOST-VER] Correction du texte qui chevauche les crédits.
-  [HOST-VER] Ajout du paramètre "Nombre de joueurs" qui peut être de 3 à 6. (on peut switcher, mais ça n'affecte pas le jeu)
+  [HOST-VER] Ajout du paramètre "Nombre de joueurs" qui peut être de 3 à 6.
+  [HOST-VER] Support de 6 joueurs max au lieu de 3.
