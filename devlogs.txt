@@ -16,3 +16,4 @@
 
 15/12/2024
   [HOST-VER] Correction des paramètres qui ont maintenant le texte qui n'est pas chevauché.
+  [HOST-VER] Correction du texte qui chevauche les crédits.
