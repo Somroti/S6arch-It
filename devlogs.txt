@@ -8,7 +8,10 @@
     Le nombre de joueurs
     Le nombre de manches
     Si les séries de victoires dont plus de score
+
 14/12/2024
   [HOST VER] Ajout de l'interface des paramètres (non fonctionnelle)
   [HOST VER] Correction de bug où le texte chevauchait les crédits.
-OBJECTIF DEMAIN : Mettre le texte des crédits correctement et faire l'interface des paramètres fonctionnelle.
+  OBJECTIF DEMAIN : Mettre le texte des crédits correctement et faire l'interface des paramètres fonctionnelle.
+
+15/12/2024
