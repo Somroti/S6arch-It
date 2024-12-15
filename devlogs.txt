@@ -19,3 +19,4 @@
   [HOST-VER] Correction du texte qui chevauche les crédits.
   [HOST-VER] Ajout du paramètre "Nombre de joueurs" qui peut être de 3 à 6.
   [HOST-VER] Support de 6 joueurs max au lieu de 3.
+  [HOST-VER] Support de nombre de manche (pas d'impact sur le jeu actuellement)
