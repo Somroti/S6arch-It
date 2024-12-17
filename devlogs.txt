@@ -24,3 +24,8 @@
   [HOST-VER] Ajout de paramètres par défaut : Nombres de manches à 1, de joueurs à 3 et les séries de victoire sont activées.
   [PLAYER-VER] Centrage des émoji (c'était stressant)
   [HOST-VER] Remplacement de Echap à Flèche Gauche pour quitter les crédits.
+
+16/12/2024
+  Rien (j'étais malade)
+
+17/12/2024
