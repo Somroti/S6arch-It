@@ -30,3 +30,4 @@
 
 17/12/2024
   [HOST VER] Mise des copyrights dans un endroit plus lisible.
+  [HOST VER] Ajout des "points couronnes" pour faire un classement des meilleurs joueurs.
