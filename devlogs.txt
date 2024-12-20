@@ -31,3 +31,6 @@
 17/12/2024
   [HOST VER] Mise des copyrights dans un endroit plus lisible.
   [PLAYER VER] Ajout des "points couronnes" pour faire un classement des meilleurs joueurs.
+
+20/12/2024
+  [HOST-VER] Création des logos de points de couronne (Bronze, Argent, Or, Platine, Diamant, Ruby, Glitch et Rainbow)
