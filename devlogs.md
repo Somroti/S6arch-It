@@ -1,4 +1,4 @@
-13/12/2024
+### 13/12/2024
   Ajout de l'extension "Storage" pour enregister les informations du client.
   Ajout de l'extension "SomUtils V2"
   [PLAYER VER] Correction du bug de texte pas centré en salle.
@@ -9,12 +9,12 @@
     Le nombre de manches
     Si les séries de victoires dont plus de score
 
-14/12/2024
+### 14/12/2024
   [HOST VER] Ajout de l'interface des paramètres (non fonctionnelle)
   [HOST VER] Correction de bug où le texte chevauchait les crédits.
   OBJECTIF DEMAIN : Mettre le texte des crédits correctement et faire l'interface des paramètres fonctionnelle.
 
-15/12/2024
+### 15/12/2024
   [HOST-VER] Correction des paramètres qui ont maintenant le texte qui n'est pas chevauché.
   [HOST-VER] Correction du texte qui chevauche les crédits.
   [HOST-VER] Ajout du paramètre "Nombre de joueurs" qui peut être de 3 à 6.
@@ -25,14 +25,14 @@
   [PLAYER-VER] Centrage des émoji (c'était stressant)
   [HOST-VER] Remplacement de Echap à Flèche Gauche pour quitter les crédits.
 
-16/12/2024
+### 16/12/2024
   Rien (j'étais malade)
 
-17/12/2024
+### ### 17/12/2024
   [HOST VER] Mise des copyrights dans un endroit plus lisible.
   [PLAYER VER] Ajout des "points couronnes" pour faire un classement des meilleurs joueurs.
 
-20/12/2024
+### 20/12/2024
   [HOST-VER] Création des logos de points de couronne (Bronze, Argent, Or, Platine, Diamant, Ruby, Glitch et Rainbow)
   [PLAYER-VER] Ajout des rangs selon tes points couronnes (Bronze 0-50, Argent 50-200, Or 200-500, Platine 500-700, Diamant 700-1300, Ruby 1300-2000, Glitch 2000-3000, Rainbow 3000+)
   [PLAYER-VER] Ajout du nouveau logo qui n'était pas présent (il était temps !)
