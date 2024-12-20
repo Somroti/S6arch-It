@@ -28,7 +28,7 @@
 ### 16/12/2024
   Rien (j'étais malade)
 
-### ### 17/12/2024
+### 17/12/2024
   [HOST VER] Mise des copyrights dans un endroit plus lisible.
   [PLAYER VER] Ajout des "points couronnes" pour faire un classement des meilleurs joueurs.
 
