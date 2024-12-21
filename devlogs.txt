@@ -37,3 +37,6 @@
   [PLAYER-VER] Ajout des rangs selon tes points couronnes (Bronze 0-50, Argent 50-200, Or 200-500, Platine 500-700, Diamant 700-1300, Ruby 1300-2000, Glitch 2000-3000, Rainbow 3000+)
   [PLAYER-VER] Ajout du nouveau logo qui n'était pas présent (il était temps !)
   [PLAYER-VER] Affichage du rang et des points couronnes
+
+21/12/2024
+  Ajout des données "Point couronne" (ptc) qui sont maintenant gérées et comprises pas l'host et le client. EX : {username1:{pseudo:"caca",ptc:12}}
