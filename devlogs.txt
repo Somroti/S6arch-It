@@ -40,3 +40,4 @@
 
 21/12/2024
   Ajout des données "Point couronne" (ptc) qui sont maintenant gérées et comprises pas l'host et le client. EX : {username1:{pseudo:"caca",ptc:12}}
+  [HOST-VER] Correction de l'affichage du pseudo avec les nouvelles données
