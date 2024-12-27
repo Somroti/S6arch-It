@@ -1,5 +1,4 @@
 # S#arch-It
-S#arch it (not S#ar sh*t) is a French multiplayer game for play with your family or your friends.
-The goal of the game is to make a photo with the asked color. The winner is the one who have the color closest to asked color.
+S#arch-It (not S#ar sh*t) is a French multiplayer game designed to be played with your family or friends. The goal of the game is to take a photo featuring the requested color. The winner is the player who has the color closest to the target.
 
-Made on PenguinMod only by me, you can found the devlogs here : https://somroti.github.io/S6arch-It/devlogs.txt
+Created exclusively by me on PenguinMod, you can find the development logs here: https://somroti.github.io/S6arch-It/devlogs.txt.
