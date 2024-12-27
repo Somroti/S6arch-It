@@ -52,3 +52,5 @@
   [HOST-VER] Ajout de plusieurs serveur de connexion en backup si un serveur ne répond pas.
   [WEB] Ajout de la page /help-connex si aucun serveur ne répond.
   [PLAYER-VER] Ajout de serveurs backup et d'erreur de connexion (pas présent avant)
+  [PLAYER-VER] Ajout d'un menu "serveurs" où on peut voir le serveur actuel et le changer
+  [HOST-VER] Affichage du serveur actuel au dessus du logo
