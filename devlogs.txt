@@ -44,3 +44,6 @@
   [HOST-VER] Ajout du rang à côté du joueur (et le rang Rainbow est trop stylé)
   [PLAYER-VER] Ajout d'un support de 4 joueurs (3 avant)
   [PLAYER-VER] Correction du bug où les membres de la room étaient reset quand un nouveau joueur arrivait.
+
+27/12/2024
+  Ajout d'un bouton "Plein Écran" (les navigateurs ne supportent pas le plein écran automatique)
