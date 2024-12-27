@@ -46,4 +46,5 @@
   [PLAYER-VER] Correction du bug où les membres de la room étaient reset quand un nouveau joueur arrivait.
 
 27/12/2024
-  Ajout d'un bouton "Plein Écran" (les navigateurs ne supportent pas le plein écran automatique)
+  [PLAYER-VER] Ajout d'un bouton "Plein Écran" (les navigateurs ne supportent pas le plein écran automatique)
+  [PLAYER-VER] Ajout d'un "boucle Plein Ecran" (quand souris pressée, on met plein ecran, on attends qu'on ne soit plus en plein écran à l'infini)
