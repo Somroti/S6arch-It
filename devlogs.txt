@@ -55,3 +55,6 @@
   [PLAYER-VER] Ajout d'un menu "serveurs" où on peut voir le serveur actuel et le changer
   [HOST-VER] Affichage du serveur actuel au dessus du logo
   OBJECTIF DEMAIN : Pouvoir lancer un partie
+
+28/12/2024
+  [TOUTES-VER] Connexions aux Rooms (idée abandonnée puis réalisée pour aller plus vite)
