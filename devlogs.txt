@@ -59,3 +59,6 @@
 28/12/2024
   [TOUTES-VER] Connexions aux Rooms (idée abandonnée puis réalisée pour aller plus vite)
   [HOST-VER] Correction des accords de caméra qui n'étaient plus pris en compte car pas à jour
+
+29/12/2024
+  [HOST-VER] Ajout du comptage de joueurs qui sont prêts
