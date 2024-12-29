@@ -64,3 +64,4 @@
   [HOST-VER] Ajout du comptage de joueurs qui sont prêts
   [HOST-VER] Ajout d'un décompte avant le lancement de la partie.
   [PLAYER-VER] Affinage du bouton pour envoyer un message
+  [TOUTES-VER] Commancement de la structure d'envoi vidéo
