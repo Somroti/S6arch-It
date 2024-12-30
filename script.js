@@ -1,9 +1,13 @@
-// Essai 2
+// Nouvel essai
 let currentStream;
+let videoElement = document.createElement('video'); // Crée un élément vidéo
+videoElement.autoplay = true; // Activer la lecture automatique
+document.body.appendChild(videoElement); // Ajoute l'élément à la page
+
 let currentDeviceIndex = 0;
 
-// Fonction pour passer à la caméra suivante
-async function switchCamera() {
+// Fonction pour démarrer la caméra
+async function startCamera() {
     const devices = await navigator.mediaDevices.enumerateDevices();
     const videoDevices = devices.filter(device => device.kind === 'videoinput');
 
@@ -17,17 +21,24 @@ async function switchCamera() {
         currentStream.getTracks().forEach(track => track.stop());
     }
 
-    // Passe à la caméra suivante
-    currentDeviceIndex = (currentDeviceIndex + 1) % videoDevices.length;
+    // Sélectionne la caméra suivante
     const deviceId = videoDevices[currentDeviceIndex].deviceId;
+    currentDeviceIndex = (currentDeviceIndex + 1) % videoDevices.length;
 
-    // Démarre la nouvelle caméra
+    // Obtenir le flux vidéo
     currentStream = await navigator.mediaDevices.getUserMedia({
         video: { deviceId: { exact: deviceId } }
     });
 
-    console.log(`Caméra active : ${videoDevices[currentDeviceIndex].label}`);
+    // Affiche le flux dans l'élément vidéo
+    videoElement.srcObject = currentStream;
 }
 
-// Appeler directement la fonction pour passer à la caméra suivante
-switchCamera();
+// Ajoute un bouton pour changer de caméra
+const button = document.createElement('button');
+button.textContent = "Changer de caméra";
+button.onclick = startCamera;
+document.body.appendChild(button);
+
+// Démarre avec la première caméra
+startCamera();
