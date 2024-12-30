@@ -6,7 +6,7 @@ async function getDevices() {
     const videoDevices = devices.filter(device => device.kind === 'videoinput'); // Filtre uniquement les caméras
 
     // Chercher et démarrer le flux de la caméra par son nom
-    changeCameraByName(videoDevices, "Caméra avant");  // Remplacez "Caméra avant" par le nom que vous cherchez
+    changeCameraByName(videoDevices, "OBS Virtual Camera");  // Remplacez "Caméra avant" par le nom que vous cherchez
   } catch (error) {
     console.error('Erreur lors de l\'énumération des appareils :', error);
   }
@@ -15,7 +15,7 @@ async function getDevices() {
 // Fonction pour démarrer un flux vidéo avec une caméra spécifique
 async function startStream(deviceId) {
   const constraints = {
-    video: { deviceId: { exact: OBS Virtual Camera } } // Utilise une caméra spécifique
+    video: { deviceId: { exact: deviceId } } // Utilise une caméra spécifique
   };
 
   try {
