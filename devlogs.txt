@@ -75,3 +75,4 @@
   [PLAYER-VER] Ajout de l'extension Time pour comparer des dates.
   [PLAYER-VER] Modification des "Got New Global data?" pour qu'ils ne se gênent pas entre eux
   [HOST-VER] Ajout du God Mode qui permet de contourner des règles
+  [PLAYER-VER] Testage de bidouillage JS sans succès
