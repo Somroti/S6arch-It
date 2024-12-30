@@ -66,3 +66,6 @@
   [PLAYER-VER] Affinage du bouton pour envoyer un message
   [TOUTES-VER] Commancement de la structure d'envoi vidéo (24 FPS pour avoir de la fluidité sans surcharger les serveurs)
   Ajout de l'extension Color Utils pour voir la similarité entre deux couleurs et donne une couleur aléatoire.
+
+30/12/2024
+  [TOUTES-VER] Ajout de l'envoi de la photo finale : l'host calcule le nombre de points et l'envoi au joueur
