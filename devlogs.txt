@@ -69,3 +69,5 @@
 
 30/12/2024
   [TOUTES-VER] Ajout de l'envoi de la photo finale : l'host calcule le nombre de points et l'envoi au joueur
+  [TOUTES-VER] Ajout de la variable "couleur" qui donne la couleur à avoir
+  [PLAYER-VER] Ajout d'un carré qui prend la couleur de celle demandé (pour que le joueur sache laquelle prendre)
