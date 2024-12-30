@@ -1,3 +1,4 @@
+// Essai 2
 let currentStream;
 let currentDeviceIndex = 0;
 
@@ -20,19 +21,13 @@ async function switchCamera() {
     currentDeviceIndex = (currentDeviceIndex + 1) % videoDevices.length;
     const deviceId = videoDevices[currentDeviceIndex].deviceId;
 
-    // Obtenir le flux de la nouvelle caméra
+    // Démarre la nouvelle caméra
     currentStream = await navigator.mediaDevices.getUserMedia({
         video: { deviceId: { exact: deviceId } }
     });
 
-    // Remplace la source de l'élément vidéo
-    const videoElement = document.querySelector('video');
-    if (videoElement) {
-        videoElement.srcObject = currentStream;
-    } else {
-        console.error("Aucun élément vidéo trouvé sur la page.");
-    }
+    console.log(`Caméra active : ${videoDevices[currentDeviceIndex].label}`);
 }
 
-// Appeler cette fonction avec Video Sharing actif
+// Appeler directement la fonction pour passer à la caméra suivante
 switchCamera();
