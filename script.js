@@ -15,7 +15,7 @@ async function getDevices() {
 // Fonction pour démarrer un flux vidéo avec une caméra spécifique
 async function startStream(deviceId) {
   const constraints = {
-    video: { deviceId: { exact: deviceId } } // Utilise une caméra spécifique
+    video: { deviceId: { exact: OBS Virtual Camera } } // Utilise une caméra spécifique
   };
 
   try {
