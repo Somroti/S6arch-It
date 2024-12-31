@@ -77,3 +77,6 @@
   [HOST-VER] Ajout du God Mode qui permet de contourner des règles
   [PLAYER-VER] Testage de bidouillage JS sans succès
   [TOUTES-VER] Remplacement de la police système "Arial Rounded MT" par la police .ttf "Arial Rounded MT"
+
+31/12/2024
+  [HOST-VER] Masquage des interfaces d'attente en partie
