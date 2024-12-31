@@ -83,3 +83,4 @@
   [PLAYER-VER] Correction des "connexion streak" buggés
   [WEB] Ajout d'un tutoriel pour apprendre le jeu !
   [PLAYER-VER] Ajout d'un fond en jeu
+  [HOST-VER] Ajout du score du joueur au dessus de sa caméra.
