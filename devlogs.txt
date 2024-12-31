@@ -80,3 +80,4 @@
 
 31/12/2024
   [HOST-VER] Masquage des interfaces d'attente en partie
+  [PLAYER-VER] Correction des "connexion streak" buggés
