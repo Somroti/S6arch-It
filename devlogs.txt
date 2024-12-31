@@ -82,3 +82,4 @@
   [HOST-VER] Masquage des interfaces d'attente en partie
   [PLAYER-VER] Correction des "connexion streak" buggés
   [GIT] Ajout d'un tutoriel pour apprendre le jeu !
+  [PLAYER-VER] Ajout d'un fond en jeu
