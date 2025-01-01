@@ -88,3 +88,4 @@
 
 1/1/2025
   BONNE ANNÉE sur S#arch It !
+  [HOSt-VER] Corrcetion d'un bug où l'host ne dessinait plus la caméra
