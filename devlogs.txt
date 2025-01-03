@@ -93,3 +93,9 @@
 2/1/2025
   [HOST-VER] Ajout de la caméra du 3 joueur
   [HOST-VER] Ajout du leaderboard à la fin de la partie.
+
+3/1/2025
+  [HOST-VER] Ajout de l'extension "Temporary Variable" pour limiter le nombre de variables
+  [HOST-VER] Correction d'un bug où le premier joueur à finir avait le même score que le deuxieme
+  [HOST-VER] Ajout du score dans le Leaderboard
+  [PLAYER-VER] Prise en compte des points dans les points couronne
