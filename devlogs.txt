@@ -102,3 +102,6 @@
   [HOST-VER] Correction de nombreux bugs
   [WEB] Ajout de la page "S#arch It Hub" (https://somroti.github.io/S6arch-It)
   [WEB] Ajout de la page "Soon"
+
+5/1/2025
+  C'est la fin des devlogs ! Merci d'avoir lu toutes les mises à jour ! Je suis sur la fin du développement, il me reste plus qu'a faire le support 6 joueurs ! Allez sur le site pour en savoir plus !
