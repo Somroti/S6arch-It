@@ -9,13 +9,13 @@
     <!-- Chargement des icônes Lucide pour un aspect moderne -->
     <script src="https://unpkg.com/lucide@latest"></script>
     <style>
-        /* Configuration du fond (couleur inspirée du croquis) */
+        /* Configuration du fond (NOUVELLE COULEUR) */
         body {
-            background-color: #eae3c6; /* Un beige clair/kaki */
+            background-color: #cac89b; /* Nouveau beige/kaki plus chaud */
             font-family: 'Inter', sans-serif;
-            min-height: 100vh;
+            min-height: 100vh; /* S'assure que le corps prend au moins toute la hauteur de la fenêtre */
             display: flex;
-            flex-direction: column;
+            flex-direction: column; /* Organise les éléments verticalement */
             align-items: center;
             padding: 2rem;
         }
@@ -33,21 +33,21 @@
 
         /* Styles spécifiques aux boutons de la grille */
         .hub-button {
-            /* Couleur inspirée du croquis */
-            background-color: #9d9577; /* Taupe/Marron */
+            /* Couleur inspirée du croquis (NOUVELLE COULEUR) */
+            background-color: #91846c; /* Nouveau taupe/marron pour les boutons */
             color: #1c1917; /* Noir très foncé */
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            padding: 1.5rem 1rem;
+            padding: 2rem 1.5rem; /* Augmentation du padding pour des boutons plus grands */
             border-radius: 16px;
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
             transition: transform 0.1s, box-shadow 0.1s;
             text-align: center;
             font-size: 1.125rem;
             line-height: 1.5;
-            min-height: 150px;
+            min-height: 180px; /* Augmentation de la hauteur minimale */
             cursor: pointer;
             position: relative;
             user-select: none;
@@ -69,7 +69,7 @@
             bottom: -20px;
             left: 50%;
             transform: translateX(-50%);
-            background-color: #ffd700; /* Or/Jaune éclatant */
+            background-color: #ffd700; /* Or/Jaune éclatant (inchangé) */
             color: #1c1917;
             font-weight: 700;
             padding: 4px 10px;
@@ -79,9 +79,9 @@
             white-space: nowrap;
         }
 
-        /* Styles pour le bouton "Me soutenir" */
+        /* Styles pour le bouton "Me soutenir" (NOUVELLE COULEUR) */
         .support-button {
-            background-color: #9d9577;
+            background-color: #91846c; /* Nouveau taupe/marron pour le bouton de soutien */
             color: #1c1917;
             /* Applique le style Arial Rounded MT Bold ici aussi */
             font-weight: 800;
@@ -93,7 +93,8 @@
         }
 
         .support-button:hover {
-            background-color: #7b735c;
+            /* Couleur de survol ajustée pour correspondre au nouveau bouton */
+            background-color: #7a6e5b; 
         }
 
         @media (min-width: 768px) {
@@ -103,7 +104,7 @@
         }
     </style>
 </head>
-<body class="bg-[#EAE3C6]">
+<body class="bg-[#CAC89B]"> <!-- Mise à jour de la couleur de fond inline pour la compatibilité -->
 
     <!-- Titre Principal -->
     <header class="mb-12 mt-4 md:mt-10">
@@ -116,7 +117,7 @@
             
             <!-- Bouton HOST (PC) -->
             <a id="host-button" href="https://somroti.github.io/S6arch-It/host" class="hub-button group">
-                <span class="text-xl rounded-bold-text">HOST (PC)</span>
+                <span class="text-2xl rounded-bold-text">HOST (PC)</span> <!-- Augmentation de la taille du texte -->
                 <span class="text-sm opacity-80 mt-1">Lancer une partie</span>
                 <!-- Label de recommandation (géré par JS) -->
                 <div id="host-recommended-label" class="recommended-label hidden">
@@ -126,7 +127,7 @@
 
             <!-- Bouton JOUEUR (TEL) -->
             <a id="player-button" href="https://somroti.github.io/S6arch-It/player" class="hub-button group">
-                <span class="text-xl rounded-bold-text">JOUEUR (TÉL)</span>
+                <span class="text-2xl rounded-bold-text">JOUEUR (TÉL)</span> <!-- Augmentation de la taille du texte -->
                 <span class="text-sm opacity-80 mt-1">Rejoindre une partie</span>
                  <!-- Label de recommandation (géré par JS) -->
                  <div id="player-recommended-label" class="recommended-label hidden">
@@ -153,8 +154,8 @@
     </main>
     
     <!-- Bouton Me Soutenir (en bas) -->
-    <footer class="mt-16 w-full flex justify-center">
-        <!-- Lien mis à jour vers la chaîne YouTube -->
+    <footer class="mt-auto mb-8 w-full flex justify-center"> <!-- mt-auto pousse le pied de page vers le bas -->
+        <!-- Lien vers la chaîne YouTube -->
         <a href="https://www.youtube.com/@Somroti" target="_blank" class="support-button rounded-bold-text">
             Me soutenir
         </a>
