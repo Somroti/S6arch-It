@@ -4,6 +4,7 @@ Changements importants :
 - Le rang Rainbow devient Color Master
 - Le rang Glitch devient Amethyst
 - Ajout de Color Star et de Color Coin (monnaies utilisables pour plus tard)
+
 À faire :
 - Probablement un design de Color Box (Lootboxes pour le jeu)
 - Un bouton pour le Color Pass (Battle Pass) à 0% car ça sera dynamique
