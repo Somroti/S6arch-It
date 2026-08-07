@@ -27,3 +27,4 @@ Nouvelles idées :
 
 Changements :
 - Ajout de plus de flou sur la brillance des boutons
+- Ajouts des boutons Classements et Amis sur le menu (ils font rien pour l'instant)
