@@ -24,3 +24,6 @@ Nouvelles idées :
 - Un freeplay (tah Rocket League)
 - Un systeme de code créateur qui gagne 10% des achats en boutique
 - Jeu sur navigateur pour iOS parce que je peux pas compiler
+
+Changements :
+- Ajout de plus de flou sur la brillance des boutons
