@@ -13,9 +13,11 @@ Changements importants :
 Nouveaux boutons créés :
 - Rejouer
 - Quitter
+
 Nouvelles monnaies :
 - Color Star
 - Color Coin
+
 Nouvelles idées :
 - Faire un système d'équipe temporaire avec un code (qu'on pourra join avec QR Code) et un chat
 - Un tutoriel
