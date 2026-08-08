@@ -28,3 +28,8 @@ Nouvelles idées :
 Changements :
 - Ajout de plus de flou sur la brillance des boutons
 - Ajouts des boutons Classements et Amis sur le menu (ils font rien pour l'instant)
+
+# 08/08/26
+Ajouts des boutons principaux sur le menu principal à l'exception du Color Pass
+
+À faire : probablement un redesign du bouton jouer parce qu'il fait un peu tache et se fond dans le décor
