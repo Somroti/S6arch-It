@@ -31,5 +31,9 @@ Changements :
 
 # 08/08/26
 Ajouts des boutons principaux sur le menu principal à l'exception du Color Pass
+Fix des bords du boutons qui avaient le reflet alors que le bouton à des bords arrondis
+
+**PASSAGE SUR PYGAME-CE ET PYTHON 3.14**
+Ça aidera beaucoup pour la suite du projet
 
 À faire : probablement un redesign du bouton jouer parce qu'il fait un peu tache et se fond dans le décor
