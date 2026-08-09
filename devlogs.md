@@ -38,3 +38,12 @@ Redesign du bouton jouer pour être dans le même style que les autres
 Ça aidera beaucoup pour la suite du projet
 
 À faire : probablement un redesign du bouton jouer parce qu'il fait un peu tache et se fond dans le décor
+
+# 09/08/26
+- Ajout d'une classe très complexe pour le texte
+- Ajout de la police Quantico dans les fichiers
+- Le bouton club a enfin du texte dessus (qui pourra changer selon le club)
+- Fixs côté clients et serveurs pour la connexion (le login ce fait sans mot de passe pour l'instant mais ça se fera)
+- Ajout d'un boolean "main_menu" qui pourra servir à savoir quand dessiner quoi pour créer des menus
+
+À faire : Ajouter un vrai Login (au moins avec le mot de passe en clair), peu être ajout du profil du joueur sur le menu si j'ai le temps (parce que faire du login peut-être compliqué)
