@@ -19,7 +19,7 @@ I am completely rebuilding the game from the ground up using **Python** and **Py
 
 ## Legacy Version
 Everything related to the original first prototype (developed on PenguinMod) has been moved to the `/Old` directory. 
-*Note: The old version is heavily bugged due to the initial server infrastructure.*
+*Note: The old version is broken due to the initial server infrastructure.*
 
 ---
 
