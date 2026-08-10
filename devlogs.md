@@ -56,5 +56,6 @@ Redesign du bouton jouer pour être dans le même style que les autres
 - Re-dimension du logo pour prendre moins de place sur le menu principal
 - Affichage des pseudos sur le menu principal avec taille dynamique
 - Ajout du titre sur la carte (passé de dictionnaire en liste)
-
-À faire : probablement affichage des monnaies, du rang sur le menu principal (et peut-être photo de profil)
+- Rééquilibrage des rangs (Bronze 0–50 → Argent 50–200 → Or 200–500 → Platine 500–900 → Diamant 900–1400 → Ruby 1400–2100 → Amethyst 2100–3100 → Color Master 3100+)
+  
+À faire : probablement affichage des monnaies, du rang sur le menu principal (partiellement fait) et peut-être photo de profil
