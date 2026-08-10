@@ -50,5 +50,7 @@ Redesign du bouton jouer pour être dans le même style que les autres
 
 # 10/08/26
 - Fixs divers sur le login (toujours pas de vrais logins)
-- Les classes sont maintenants dans des fichiers séparés pour alléger script.py
+- Les classes sont maintenant dans des fichiers séparés pour alléger script.py
 - Renom des fichiers en .user en .json (vu que c'est du JSON)
+- Ajout de la plaque sur le menu principal
+- Re-dimension du logo pour prendre moins de place sur le menu principal
