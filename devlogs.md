@@ -49,6 +49,6 @@ Redesign du bouton jouer pour être dans le même style que les autres
 À faire : Ajouter un vrai Login (au moins avec le mot de passe en clair), peu être ajout du profil du joueur sur le menu si j'ai le temps (parce que faire du login peut-être compliqué)
 
 # 10/08/26
-Fixs divers sur le login (toujours pas de vrais logins)
-Les classes sont maintenants dans des fichiers séparés pour alléger script.py
-Renom des fichiers en .user en .json (vu que c'est du JSON)
+- Fixs divers sur le login (toujours pas de vrais logins)
+- Les classes sont maintenants dans des fichiers séparés pour alléger script.py
+- Renom des fichiers en .user en .json (vu que c'est du JSON)
