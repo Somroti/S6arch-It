@@ -54,3 +54,7 @@ Redesign du bouton jouer pour être dans le même style que les autres
 - Renom des fichiers en .user en .json (vu que c'est du JSON)
 - Ajout de la plaque sur le menu principal
 - Re-dimension du logo pour prendre moins de place sur le menu principal
+- Affichage des pseudos sur le menu principal avec taille dynamique
+- Ajout du titre sur la carte (passé de dictionnaire en liste)
+
+À faire : probablement affichage des monnaies, du rang sur le menu principal (et peut-être photo de profil)
