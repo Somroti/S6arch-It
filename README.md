@@ -23,4 +23,4 @@ Everything related to the original first prototype (developed on PenguinMod) has
 
 ---
 
-Check out the full development logs here: [devlogs.txt](https://somroti.github.io/S6arch-It/devlogs.txt)
+Check out the full development logs here: [devlogs.md](https://somroti.github.io/S6arch-It/devlogs.md)
