@@ -59,3 +59,15 @@ Redesign du bouton jouer pour être dans le même style que les autres
 - Rééquilibrage des rangs (Bronze 0–50 → Argent 50–200 → Or 200–500 → Platine 500–900 → Diamant 900–1400 → Ruby 1400–2100 → Amethyst 2100–3100 → Color Master 3100+)
   
 À faire : probablement affichage des monnaies, du rang sur le menu principal (partiellement fait) et peut-être photo de profil
+
+# 11/08/26
+- Connexion par token (beaucoup plus sécurisé)
+- Changement de requete "get_user" en "login" (get_user sera pour l'API)
+
+Beaucoup de nouvelles idées (je dors pas la nuit) :
+- Mises à jours (donc faudra stocker le n° de version et emmener les users sur le site)
+- Events (un par vacances)
+- Parametre Nocopyright pour les créateurs de contenu
+- Mettre de moins en moins de temps pour chaque photo quand on monte en rang
+- Système de signalement
+- Tips pendant les chargements
