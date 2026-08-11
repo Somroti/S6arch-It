@@ -65,6 +65,8 @@ Redesign du bouton jouer pour être dans le même style que les autres
 - Changement de requete "get_user" en "login" (get_user sera pour l'API)
 - Design et ajout du bouton "Color Pass" (pas dynamique car trop complexe)
 - Ajout de set_image à la classe Button et adaption complète de la classe (heureusement que je comprends ce que je fais)
+- Ajout du bouton pour changer le nombre de joueurs et sa logique
+- Ajout du bouton pour pouvoir jouer en classé ou non et sa logique
   
 Beaucoup de nouvelles idées (je dors pas la nuit) :
 - Mises à jours (donc faudra stocker le n° de version et emmener les users sur le site)
