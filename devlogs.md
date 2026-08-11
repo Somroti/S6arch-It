@@ -68,6 +68,9 @@ Redesign du bouton jouer pour être dans le même style que les autres
 - Ajout du bouton pour changer le nombre de joueurs et sa logique
 - Ajout du bouton pour pouvoir jouer en classé ou non et sa logique
 - Ajout d'une bande sur laquelle on peut voir son nombre de Color Coin et Color Shard
+- Ajout des boutons pour inviter des amis dans la partie
+- Remplacement du bouton Match Amical par Boutique
+- Ajouts des boutons Statistiques, Match Amical et News en petit
   
 Beaucoup de nouvelles idées (je dors pas la nuit) :
 - Mises à jours (donc faudra stocker le n° de version et emmener les users sur le site)
